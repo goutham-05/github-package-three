@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "git://github.com/goutham-05/github-package-three.git"
+  }
 }
